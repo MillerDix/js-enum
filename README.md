@@ -1,0 +1,2 @@
+# js-enum
+js enum
